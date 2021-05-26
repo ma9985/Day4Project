@@ -1,1 +1,3 @@
-this is the file I added directly from GitHub.com to simulate my co worker pushed this chagnes to this repo so can pull the code
+this is the file I added directly from GitHub.com to simulate my co worker pushed this changes to this repo so can pull the code
+
+Added some changes from local
